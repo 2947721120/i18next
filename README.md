@@ -1,4 +1,4 @@
-ZH-CN
+#ZH-CN
 i18next
 i18next是一个非常受欢迎的浏览器或任何其他JavaScript环境的国际化框架（如节点。JS）。
 
@@ -21,7 +21,8 @@ i18next提供：
 应用程序接口
 从问题导向的迁移。X
 我们的重点是建立一个蓬勃发展的生态系统提供核心。独立的积木你选择，无论是反应，角甚至老好适当的翻译能力是jQuery一步之遥。
-EN
+
+#EN
 # i18next
 
 i18next is a very popular internationalization framework for browser or any other javascript environment (eg. node.js).
